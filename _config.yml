@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Hi!
+tagline:          "Kerem's Blog"
+description:      'I am Kerem, and I am a junior CS student.'
+url:              http://hyde.getpoole.com
+baseurl:          https://github.com/mrkeremyilmaz/mrkeremyilmaz.github.io/
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+plugins: [jekyll-paginate]
+
+github:
+  repo:           https://github.com/poole/hyde
