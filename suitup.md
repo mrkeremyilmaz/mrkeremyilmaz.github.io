@@ -9,4 +9,4 @@ title: Suit Up
 </p>
 -->
 
-<h3> CS353-Proposal: [pdf]({{site.url}}/files/21601223_CV.pdf)</h3>
+CS353-Proposal: [pdf]({21601223_CV.pdf)
