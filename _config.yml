@@ -10,7 +10,7 @@ title:            Hi!
 tagline:          "Kerem's Blog"
 description:      'I am Kerem, and I am a junior CS student.'
 url:              http://hyde.getpoole.com
-baseurl:          https://mrkeremyilmaz.github.io/
+baseurl:          /
 
 author:
   name:           'Mark Otto'
