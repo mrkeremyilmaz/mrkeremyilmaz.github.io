@@ -9,8 +9,8 @@ permalink:        pretty
 title:            Hi!
 tagline:          "Kerem's Blog"
 description:      'I am Kerem, and I am a junior CS student.'
-url:              http://mrkeremyilmaz.github.io
-baseurl:          /
+url:              https://mrkeremyilmaz.github.io/
+baseurl:          https://mrkeremyilmaz.github.io/
 
 author:
   name:           'Mark Otto'
