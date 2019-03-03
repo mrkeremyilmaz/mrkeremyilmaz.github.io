@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Hi!
 tagline:          "Kerem's Blog"
 description:      'I am Kerem, and I am a junior CS student.'
-url:              http://mrkeremyilmaz.github.io
+url:              http://github.com/mrkeremyilmaz/mrkeremyilmaz.github.io/tree/develop
 baseurl:          /
 
 author:
@@ -23,4 +23,4 @@ version:          2.1.0
 plugins: [jekyll-paginate]
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           github.com/mrkeremyilmaz/mrkeremyilmaz.github.io
