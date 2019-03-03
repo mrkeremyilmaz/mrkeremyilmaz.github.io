@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
 <!--
@@ -9,4 +9,4 @@ title: About
 </p>
 -->
 
-<h3> Hi, I am Kerem Yilmaz. </h3>
+Hi, I am Kerem Yilmaz.
