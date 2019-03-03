@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Hi!
 tagline:          "Kerem's Blog"
 description:      'I am Kerem, and I am a junior CS student.'
-url:              http://github.com/mrkeremyilmaz/mrkeremyilmaz.github.io/tree/develop
+url:              https://github.com/mrkeremyilmaz/mrkeremyilmaz.github.io/raw/develop
 baseurl:          /
 
 author:
