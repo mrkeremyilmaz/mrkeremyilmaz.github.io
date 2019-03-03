@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Hi!
 tagline:          "Kerem's Blog"
 description:      'I am Kerem, and I am a junior CS student.'
-url:              https://github.com/mrkeremyilmaz/mrkeremyilmaz.github.io/raw/develop
+url:              http://mrkeremyilmaz.github.io
 baseurl:          /
 
 author:
@@ -21,6 +21,3 @@ paginate:         5
 # Custom vars
 version:          2.1.0
 plugins: [jekyll-paginate]
-
-github:
-  repo:           github.com/mrkeremyilmaz/mrkeremyilmaz.github.io
