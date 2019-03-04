@@ -9,4 +9,4 @@ title: Suit Up
 </p>
 -->
 
-CS353-Proposal: [pdf](21601223_CV.pdf)
+CS353-Proposal: [pdf](CS353_Sec1_Group1_Proposal.pdf)
