@@ -10,3 +10,5 @@ title: Suit Up
 -->
 
 CS353-Proposal: [pdf](CS353_Sec1_Group1_Proposal.pdf)
+
+CS353-Design Document: [pdf](CS353_Sec1_Group1_Proposal.pdf)
