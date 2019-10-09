@@ -9,4 +9,14 @@ title: Photonom
 </p>
 -->
 
-Specifications Report: [pdf](CS353_Sec1_Group1_Proposal.pdf)
+Project Specifications: -not available-
+
+Analysis Report: -not available-
+
+High-Level Design Report: -not available-
+
+Low-Level Design Report: -not available-
+
+Final Report: -not available-
+
+User Manual: -not available-
