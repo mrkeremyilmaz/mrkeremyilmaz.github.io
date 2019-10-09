@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Suit Up
-exclude: true
+title: null
 ---
 
 <!--
